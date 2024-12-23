@@ -2,7 +2,7 @@
 
 ## Private Repository
 
-Thank you for your interest in reviewing this repository.
+Thank you for your interest in reviewing my work.
 
 Unfortunately, I am unable to share the source code directly. This repository contains the core code for a LIVE project actively in use by an existing business. Due to confidentiality and ethical considerations, I am not at liberty to make the code publicly accessible.
 
@@ -22,5 +22,4 @@ To learn more about my professional work, feel free to explore my [GitHub profil
 Thank you for your understanding and consideration. I look forward to discussing my work further.
 
 Best regards,
-
 **Samuel.**
