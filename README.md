@@ -22,4 +22,5 @@ To learn more about my professional work, feel free to explore my [GitHub profil
 Thank you for your understanding and consideration. I look forward to discussing my work further.
 
 Best regards,
+
 **Samuel.**
